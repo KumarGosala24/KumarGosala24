@@ -26,4 +26,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sowjanya-kumar-gosala/)
 
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=KumarGosala24&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
