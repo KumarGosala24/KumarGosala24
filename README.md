@@ -1,7 +1,6 @@
-# 👋 Hi, I'm Sowjanya Kumar
+# 👋 Hi, I'm Gosala Sowjanya Kumar
 
 🎓 I'm a 3rd Year B.E. CSE (AI) Student  
-🏆 National-Level Hackathon Winner (Exploring AI)  
 💻 Passionate Full Stack Developer | AI Enthusiast  
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sowjanya-kumar-gosala/)
 
