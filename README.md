@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Sowjanya Kumar
 
-<!--
-**KumarGosala24/KumarGosala24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a 3rd Year B.E. CSE (AI) Student  
+🏆 National-Level Hackathon Winner (Exploring AI)  
+💻 Passionate Full Stack Developer | AI Enthusiast  
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sowjanya-kumar-gosala/)
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- 💻 Languages: Python, Java, JavaScript
+- 🌐 Frontend: React, HTML/CSS (with Django Templates if used)
+- 🛠 Backend: Django
+- 🗄️ Database: MongoDB, MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=KumarGosala24&show_icons=true&theme=tokyonight)
+
+## 📊 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KumarGosala24&layout=compact&theme=tokyonight)
