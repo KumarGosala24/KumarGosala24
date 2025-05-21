@@ -16,13 +16,11 @@
 ## 📊 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KumarGosala24&layout=compact&theme=tokyonight)
 
----
 
 ## 🏅 Achievements
 - 🎯 Consistent contributor to open-source projects
 - 📚 Strong foundation in DSA, OOPs, and DBMS
 
----
 
 ## 🌐 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sowjanya-kumar-gosala/)
