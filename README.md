@@ -8,8 +8,8 @@
 ---
 
 ## 🔧 Tech Stack  
-- 💻 **Languages:** Python, Java, JavaScript  
-- 🌐 **Frontend:** React.js, HTML/CSS, Django Templates  
+- 💻 **Languages:** Python, Java, C++  
+- 🌐 **Frontend:** React.js, HTML/CSS, Javacript
 - 🛠 **Backend:** Django, Node.js (learning)  
 - 🗄️ **Databases:** MongoDB, MySQL  
 - ⚙️ **Tools & Platforms:** Git, GitHub, Docker, Streamlit  
@@ -18,7 +18,8 @@
 
 ## 📊 GitHub Stats  
 ![Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=KumarGosala24&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KumarGosala24&layout=compact&theme=tokyonight&hide=python,MachineLearning)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KumarGosala24&layout=compact&theme=tokyonight&hide=Python,Jupyter%20Notebook)  
+
 
 ---
 
