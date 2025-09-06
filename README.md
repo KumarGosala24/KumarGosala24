@@ -1,29 +1,37 @@
-# 👋 Hi, I'm Gosala Sowjanya Kumar
+# 👋 Hi, I'm Gosala Sowjanya Kumar  
 
-🎓 I'm a 3rd Year B.E. CSE (AI) Student  
-💻 Passionate Full Stack Developer | AI Enthusiast  
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sowjanya-kumar-gosala/)
+🎓 3rd Year B.E. CSE (AI) Student at Sathyabama Institute of Science and Technology  
+💻 Full Stack Developer | AI/ML Enthusiast | Open-Source Learner  
+🌱 Currently exploring **Machine Learning, React.js, and Backend Development**  
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/sowjanya-kumar-gosala/)  
 
-## 🔧 Tech Stack
-- 💻 Languages: Python, Java, JavaScript
-- 🌐 Frontend: React, HTML/CSS (with Django Templates if used)
-- 🛠 Backend: Django
-- 🗄️ Database: MongoDB, MySQL
+---
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=KumarGosala24&show_icons=true&theme=tokyonight)
+## 🔧 Tech Stack  
+- 💻 **Languages:** Python, Java, JavaScript  
+- 🌐 **Frontend:** React.js, HTML/CSS, Django Templates  
+- 🛠 **Backend:** Django, Node.js (learning)  
+- 🗄️ **Databases:** MongoDB, MySQL  
+- ⚙️ **Tools & Platforms:** Git, GitHub, Docker, Streamlit  
 
-## 📊 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KumarGosala24&layout=compact&theme=tokyonight)
+---
 
+## 📊 GitHub Stats  
+![Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=KumarGosala24&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KumarGosala24&layout=compact&theme=tokyonight&hide=python,MachineLearning)  
 
-## 🏅 Achievements
-- 🎯 Consistent contributor to open-source projects
-- 📚 Strong foundation in DSA, OOPs, and DBMS
+---
 
+## 🏆 Achievements  
+- 🎯 Built multiple **full-stack web applications** (Job Board App, E-commerce Store, Bus Ticket Booking System)  
+- 🤝 Consistent contributor to **open-source & academic projects**  
+- 📚 Strong foundation in **DSA, OOP, DBMS, and ML concepts**  
+- 🚀 Created **ML projects**: Stock Market Prediction, Employee Salary Classification, Spam Detection  
 
-## 🌐 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sowjanya-kumar-gosala/)
+---
 
+## 🌐 Let's Connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sowjanya-kumar-gosala/)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/KumarGosala24)  
 
-
+---
