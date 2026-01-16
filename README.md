@@ -10,8 +10,8 @@
 ## 🔧 Tech Stack  
 - 💻 **Languages:** Python, Java, C++  
 - 🌐 **Frontend:** React.js, JavaScript, HTML, CSS  
-- 🛠 **Backend:** Django, Node.js (learning)  
-- 🗄️ **Databases:** MongoDB, MySQL  
+- 🛠 **Backend:** Django  
+- 🗄️ **Databases:** MongoDB, SQL  
 - ⚙️ **Tools & Platforms:** Git, GitHub, Docker, Streamlit  
 
 ---
