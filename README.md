@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gosala Sowjanya Kumar  
 
-🎓 3rd Year B.E. CSE (AI) Student at Sathyabama Institute of Science and Technology  
+🎓 4th Year B.E. CSE (AI) Student at Sathyabama Institute of Science and Technology  
 💻 Aspiring **Software Development Engineer (SDE)** | Full Stack Developer | AI/ML Enthusiast  
 🌱 Currently exploring **Machine Learning, React.js, and Backend Development**  
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/sowjanya-kumar-gosala/)  
@@ -8,7 +8,7 @@
 ---
 
 ## 🔧 Tech Stack  
-- 💻 **Languages:** Python, Java, C++  
+- 💻 **Languages:** Python, Java 
 - 🌐 **Frontend:** React.js, JavaScript, HTML, CSS  
 - 🛠 **Backend:** Django  
 - 🗄️ **Databases:** MongoDB, SQL  
